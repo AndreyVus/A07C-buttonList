@@ -1,0 +1,5 @@
+.build/
+.dep/
+EXPORT/
+SYS/
+*.zip

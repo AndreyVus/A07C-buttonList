@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TouchKeyBoardConfig>
+  <KeyBoard Name="GS-ZiffernBlock-230-V1">
+    <BmpFile Name="_TKB_GS-ZiffernBlock-230-V1.bmp">
+      <Display UseBmp="1" X="20" Y="11" W="105" H="20" FgColor="0x000000" FrColor="0x000000" FrWidth="1"/>
+      <Text Size="14" FgColor="0x505050" BgColor="0xF8FCF8" UnColor="0x00007F"/>
+      <Key X="18" Y="45" W="35" H="35" Code="0x37" ShCode="0"/>
+      <Key X="58" Y="45" W="35" H="35" Code="0x38" ShCode="0"/>
+      <Key X="98" Y="45" W="35" H="35" Code="0x39" ShCode="0"/>
+      <Key X="18" Y="82" W="35" H="35" Code="0x34" ShCode="0"/>
+      <Key X="58" Y="82" W="35" H="35" Code="0x35" ShCode="0"/>
+      <Key X="98" Y="82" W="35" H="35" Code="0x36" ShCode="0"/>
+      <Key X="18" Y="119" W="35" H="35" Code="0x31" ShCode="0"/>
+      <Key X="58" Y="119" W="35" H="35" Code="0x32" ShCode="0"/>
+      <Key X="98" Y="119" W="35" H="35" Code="0x33" ShCode="0"/>
+      <Key X="18" Y="156" W="35" H="35" Code="0x30" ShCode="0"/>
+      <Key X="58" Y="156" W="35" H="35" Code="0x2e" ShCode="0"/>
+      <Key X="98" Y="156" W="35" H="35" Code="0x2b" ShCode="0"/>
+      <Key X="18" Y="193" W="35" H="35" Code="0x1b" ShCode="0"/>
+      <Key X="58" Y="193" W="35" H="35" Code="0x08" ShCode="0"/>
+      <Key X="98" Y="193" W="35" H="35" Code="0x0d" ShCode="0"/>
+    </BmpFile>
+  </KeyBoard>
+</TouchKeyBoardConfig>
+
