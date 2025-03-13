@@ -120,7 +120,6 @@ int UserCInit(uint32_t initFlags)
 			ButtonList_addButton(&kanalList[i], j + offset + i*MAX_BUTTONS);
 		}
 	}
-
 	return 0;
 }
 
